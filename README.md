@@ -1,13 +1,13 @@
 
 # Qltes: About Me
 
-Im qltes, and i make mods for a monkey game, i am usually always willing to make mods and im willing to take requests if i can do it.
+I'm qltes, and I make mods for a monkey game, I am usually always willing to make mods and I'm willing to take requests if I can do it.
 
 # Discord: https://discord.gg/eAFWeGFDYB
 
 Join and you can talk to me :)
 
-# Languages i know
+# Languages I know
 
 - Lua 
 - Python 
@@ -16,6 +16,8 @@ Join and you can talk to me :)
 # Notes
 
 - Get milk 🥛
+
+![image_2023-02-25_220403417(2)](https://cdn.discordapp.com/attachments/1054131130628046929/1144731594775593020/attachment.png)
 
 <!--
 **qltes/qltes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
