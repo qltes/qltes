@@ -1,7 +1,7 @@
 
 # Qltes: About Me
 
-I'm qltes, and I make mods for a monkey game, I am usually always willing to make mods and I'm willing to take requests if I can do it.
+I'm qltes, i code
 
 # Discord: https://discord.gg/eAFWeGFDYB
 
