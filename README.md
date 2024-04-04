@@ -17,7 +17,7 @@ Join and you can talk to me :)
 
 - Get milk 🥛
 
-![image_2023-02-25_220403417(2)](https://cdn.discordapp.com/attachments/1054131130628046929/1144731594775593020/attachment.png)
+![image_2023-02-25_220403417(2)]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjKfLBTG5rzBHDwwrO3hvgv-7-2C0o39JKip64IYpuw&s])
 
 <!--
 **qltes/qltes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
