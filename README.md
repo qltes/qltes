@@ -3,8 +3,6 @@
 
 I'm qltes, i code
 
-# Discord: https://discord.gg/eAFWeGFDYB
-
 Join and you can talk to me :)
 
 # Languages I know
