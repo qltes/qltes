@@ -1,20 +1,5 @@
 
-# Qltes: About Me
-
-I'm qltes, i code
-
-Join and you can talk to me :)
-
-# Languages I know
-
-- Lua 
-- Python 
-- C# 
-
-# Notes
-
-- Get milk 🥛
-
+ql
 <!--
 **qltes/qltes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
