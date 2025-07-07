@@ -15,3 +15,4 @@
 🧠  interests:    cybersecurity, archiving
 🧬  status:       mom get out im gooning
 📍  location:     Hell
+🧑‍💻  languages: C++, C#, Python, Html + Css, Lua, JavaScript
