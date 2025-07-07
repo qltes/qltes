@@ -1,6 +1,6 @@
 <h1 align="center">jello, i'm <code>ql</code> 🧃</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=haha+cool+thing;i+like+burgers;making+shitty+programs;I+used+to+mod+gtag+now+its+all+people+know+me+for+now...&center=true&vCenter=true&width=500&height=45&color=58a6ff&font=Fira+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=haha+cool+thing;i+like+burgers;making+shitty+programs;i+used+to+mod+gtag+now+its+all+people+know+me+for+now...&center=true&vCenter=true&width=500&height=45&color=58a6ff&font=Fira+Code" />
 </p>
 
 ---
